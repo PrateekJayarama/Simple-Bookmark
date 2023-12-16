@@ -1,0 +1,22 @@
+div{
+    background-image:url(images.jpeg);
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-size: cover;
+    
+    
+}
+.under{
+    text-decoration: underline;
+    text-decoration-color: aqua;
+}
+a:link{
+    color: black;
+}
+a:hover{
+    color: whitesmoke;
+}
+a:visited{
+    color: green;
+}
